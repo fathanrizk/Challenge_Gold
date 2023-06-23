@@ -1,0 +1,22 @@
+.wrapper {
+  width: 100%;
+  /* position: relative; */
+  background-color: #f1f3ff;
+}
+
+.container-main1 {
+  /* width: 1440px; */
+  display: flex;
+  max-width: 1440px;
+  margin: 0 auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.container-left1 h1 {
+}
+
+.container-img1 {
+  /* position: absolute; */
+}

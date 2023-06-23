@@ -1,0 +1,93 @@
+.bg-color-dropdown {
+  /* color: #f5f5dc; */
+}
+
+.button-car {
+  padding-top: 33px;
+  /* width: 100%; */
+}
+
+.btn-choose {
+  width: 100%;
+  padding: 15px;
+  background-color: #5cb85f;
+  font-family: Arial;
+  font-size: 14px;
+  font-weight: 700;
+  line-height: 20px;
+  color: white;
+}
+
+.card-content-filter {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  padding: 10px;
+  padding-top: 150px;
+  /* margin-top: 150px; */
+  margin-left: 40px;
+}
+
+.img-filter-car {
+  height: 222px;
+  width: 318px;
+}
+
+.container-fill {
+  position: absolute;
+
+  /* top: -20px; */
+  /* border: 2px solid; */
+  background-color: white;
+  margin-top: -50px;
+  margin-left: 60px;
+  border-radius: 5px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.padd-search {
+  display: flex;
+  align-items: center;
+  flex-direction: row;
+  font-family: Arial;
+  font-size: 14px;
+  font-weight: 700;
+  line-height: 20px;
+  letter-spacing: 0em;
+  text-align: left;
+  padding-top: 10px;
+}
+
+.container-filter {
+  /* position: absolute; */
+  padding: 20px;
+}
+
+.h-title-filter {
+  font-family: Arial;
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 24px;
+  letter-spacing: 0em;
+  text-align: left;
+}
+
+.text-title-filter {
+  font-family: Arial;
+  font-size: 14px;
+  font-weight: 700;
+  line-height: 20px;
+  letter-spacing: 0em;
+  text-align: left;
+}
+
+@media only screen and (max-width: 600px) {
+  .container-filter {
+    /* width: 100%; */
+
+    /* background: #0d28a6; */
+    /* border-radius: 60px 0px 0px 0px;
+    padding-top: 20px; */
+  }
+}

@@ -1,0 +1,90 @@
+.wrapper-service {
+  max-width: 1400px;
+  /* position: relative; */
+}
+
+.main-service {
+  padding-top: 100px;
+}
+
+.container-service {
+  /* max-width: 1040px; */
+  /* padding-top: 50px; */
+
+  /* margin: 0 auto; */
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  /* position: relative; */
+}
+/* 
+.container-left2 {
+  position: relative;
+  width: 374px;
+  height: 428px;
+  left: 99px;
+  top: 0px;
+} */
+
+.container-left2-img1 {
+  position: absolute;
+  width: 25px;
+  height: 25px;
+  left: 383px;
+  top: 43px;
+  border-radius: 25px;
+  background: #fa2c5a;
+}
+
+/* .container-img {
+  width: 374px;
+  height: 366px;
+  left: 99px;
+  top: 0px;
+} */
+
+.icon-ceklist-service {
+  position: absolute;
+  width: 24px;
+  height: 24px;
+  left: 0px;
+  top: 0px;
+
+  /* Primary/DarkBlue/01
+
+CFD4ED
+*/
+  background: #cfd4ed;
+}
+
+.li-span-height {
+  padding-bottom: 20px;
+}
+
+.ourservice-img {
+  padding-left: 80px;
+  /* display: flex; */
+}
+
+.p-text-service {
+  font-family: Arial;
+  font-size: 14px;
+  font-weight: 700;
+  line-height: 20px;
+  padding-top: 10px;
+}
+
+.span-text-service {
+  font-family: Arial;
+  font-size: 14px;
+  font-weight: 700;
+  /* line-height: 20px; */
+}
+
+@media only screen and (max-width: 1400px) {
+  .ourservice img {
+    width: 100%;
+    /* background: #0d28a6; */
+    padding-left: 0px;
+  }
+}

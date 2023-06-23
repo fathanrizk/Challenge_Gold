@@ -1,0 +1,67 @@
+.container-testian {
+  /* width: 1500px; */
+  padding-top: 80px;
+  padding-bottom: 40px;
+}
+
+.h-text-testimonial {
+  font-family: Arial;
+  font-size: 24px;
+  font-weight: 700;
+  line-height: 36px;
+  text-align: center;
+}
+
+.p-text-testimonial {
+  font-family: Arial;
+  font-size: 14px;
+  font-weight: 700;
+  line-height: 20px;
+}
+
+.p-name-tastimonial {
+  font-family: Arial;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 20px;
+}
+
+.container-testimonial {
+  display: flex;
+  flex-direction: row;
+  padding: 20px;
+  margin: 20px;
+  background-color: #f1f3ff;
+}
+
+.testimonial-card {
+  /* flex-direction: row; */
+  display: flex;
+  align-items: center;
+  padding-right: 20px;
+}
+
+.star-set {
+  display: flex;
+  flex-direction: row;
+  padding-bottom: 10px;
+}
+
+.slid {
+  width: 100%;
+  background-color: red;
+}
+
+.arrow {
+  display: flex;
+  justify-content: center;
+}
+
+/* @media only screen and (max-width: 1400px) {
+  .card-sett {
+    padding-top: 10px;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+  }
+} */
